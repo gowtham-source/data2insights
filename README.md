@@ -41,7 +41,7 @@ Once the application is up and running, you can use the conversational bot inter
 
 ## Contributors
 
-- Your Name ([@Gowtham](https://github.com/gowtham-source))
+- Gowtham M ([@Gowtham](https://github.com/gowtham-source))
 - Anupam Kris ([@anupamkris](https://github.com/anupamkris))
 
 We appreciate all contributions to this project! Feel free to open issues and pull requests.
